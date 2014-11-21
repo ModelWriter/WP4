@@ -2,7 +2,9 @@ Work Package 4
 ===
 **Work Package 4 - Knowledge Base Design and Implementation (Mantis)**
 
-Product Backlog of WP4: https://waffle.io/ModelWriter/WP4
+[`Product Backlog of WP7`](https://waffle.io/ModelWriter/WP4)
+
+The product backlog itself is implemented in the [`issue tracker`](https://github.com/modelwriter/wp4/issues) of this repository
 
 **Objectives**
 
